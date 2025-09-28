@@ -7,7 +7,7 @@ The dashboard highlights accident trends, casualties, severity, and contributing
 The aim is to provide an **interactive and insightful representation** of road accident data for better decision-making and road safety awareness.  
 
 ## 📷 Dataset Used
-- <a href="https://github.com/Gaurav31-gw/Road-Accident-Dashboard/blob/main/Road%20Accident%20Dashboard.png">Road Accident Dataset<a>
+- <a href="https://github.com/Gaurav31-gw/Road-Accident-Dashboard/blob/main/Road%20Accident.csv">Road Accident Dataset<a>
 
 ## 📷 Dashboard Preview  
 - <a href="https://github.com/Gaurav31-gw/Road-Accident-Dashboard/blob/main/Road%20Accident%20Dashboard.png">Road Accident Dashboard<a>
