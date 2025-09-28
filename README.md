@@ -49,9 +49,9 @@ The aim is to provide an **interactive and insightful representation** of road a
 - **GitHub** → Project hosting and version control  
 
 ## 🙌 Author  
-👤 **Your Name**  
-- LinkedIn:  
-- GitHub:
+👤 **Gaurav Girish Walwadkar**  
+- LinkedIn: [Gaurav Walwadkar](https://www.linkedin.com/in/gaurav-walwadkar/)  
+- GitHub: [Gaurav31-gw](https://github.com/Gaurav31-gw) 
 
 
 ✨ Contributions, suggestions, and feedback are welcome!  
